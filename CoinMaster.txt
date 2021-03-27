@@ -1,9 +1,9 @@
 Signif,Code
 Rien,0
-Viking_1,1
-Viking_2,2
-Viking_3,3
-Femmes,4
+Thor_1,1
+Thor_2,2
+Thor_3,3
+Reine,4
 Casques,5
 Bonus,6
 Piques,7
